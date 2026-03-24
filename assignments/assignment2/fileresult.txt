@@ -1,0 +1,3 @@
+siemens@PKL-RIMSHAT-LT:~/adv_Linux/assignment2/assignment-1-UzairRashidDaud/finder-app$ make CROSS_COMPILE=aarch64-linux-gnu-
+aarch64-linux-gnu-gcc -c writer.c
+aarch64-linux-gnu-gcc writer.o -o writer
